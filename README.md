@@ -104,12 +104,3 @@ These recommendations are:
 * Justified by the hours saved through AI programming and check-ins
 
 ---
-
-Installation
-
-git clone [https://github.com/](https://github.com/)gabe2k/coachhub-pricing-model.git
-cd coachhub-pricing-model
-
-python -m venv .venv
-source .venv/bin/activate    # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
