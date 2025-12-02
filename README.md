@@ -107,7 +107,7 @@ These recommendations are:
 
 Installation
 
-git clone [https://github.com/](https://github.com/)<your-username>/coachhub-pricing-model.git
+git clone [https://github.com/](https://github.com/)gabe2k/coachhub-pricing-model.git
 cd coachhub-pricing-model
 
 python -m venv .venv
